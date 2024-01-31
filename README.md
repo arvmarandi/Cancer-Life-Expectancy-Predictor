@@ -5,7 +5,7 @@ This project accomplishes the task of classifying life expectancies for breast c
 
 Implementations of KNN, Naive Bayes, and Top Down Induction of Decision Trees (TDIDT) analyze the National Cancer Institute's [SEER Incidence Dataset](https://seer.cancer.gov/data/) to make accurate predictions on a given patient's life expectancy. A corresponding Jupyter Notebook for this task can be found [here](https://github.com/arvmarandi/Cancer-Life-Expectancy-Predictor/blob/main/LifeExpectancy_Classification_BreastCancer_SEER_2010.ipynb).
 
-All associated classifiers and utility functions in this repository have been developed by the author, from scratch.
+All associated classifiers and utility functions in this repository have been developed by the author, from scratch, and without the use of libraries such as Pandas or scikit-learn.
 ## Acknowledgements
 
  - [National Cancer Institute](https://www.cancer.gov/)
