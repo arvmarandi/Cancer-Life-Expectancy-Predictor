@@ -12,7 +12,7 @@ All associated classifiers and utility functions in this repository have been de
  - [American Joint Committee on Cancer](https://www.facs.org/quality-programs/cancer-programs/american-joint-committee-on-cancer/)
 
 
-![Logo](https://www.nwfccc.org/wp-content/uploads/2019/11/nci.jpg)
+![Logo](https://th.bing.com/th/id/OIP.jDu2k6CkQD8OrVslLkTIjQAAAA?rs=1&pid=ImgDetMain)
 
 
 ## License
